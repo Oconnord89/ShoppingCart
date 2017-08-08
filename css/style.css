@@ -1,0 +1,75 @@
+body {
+  background-color: lightblue;
+  font-family: Haettenschweiler;
+}
+
+#theForm {
+  width: 560px;
+  height: 580px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: floralwhite;
+  border-radius: 16px;
+  box-shadow: 3px 3px 7px steelblue;
+}
+
+h3 {
+font-family: Haettenschweiler;
+font-size: 80px;
+color: steelblue;
+}
+
+.word {
+  display: inline;
+  margin: 0 0 0 0;
+  font-size: 30px;
+  color: steelblue;
+}
+
+li {
+  font-size: 20px;
+  padding: 0 0 0 0;
+  color: steelblue;
+}
+
+#item-name {
+  display: inline;
+  text-align: center;
+  height: 25px;
+  width: 165px;
+  border-radius: 46px;
+  margin-right: 25px;
+  margin-left: 13px;
+  background-color: lightblue;
+  border: none;
+}
+
+#finalNum {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 146px;
+  color: steelblue;
+}
+
+
+#addBut {
+  display: inline;
+  font-family: Haettenschweiler;
+  font-size: 15px;
+  color: steelblue;
+  border-radius: 45px;
+  border: none;
+  height: 30px;
+  width: 50px;
+
+}
+
+#item-price {
+  text-align: center;
+  height: 25px;
+  width: 165px;
+  margin-left: 13px;
+  border-radius: 46px;
+  background-color:lightblue;
+  border: none;
+}
